@@ -2,7 +2,7 @@ function App() {
   return (
     <div style={{ textAlign: 'center', marginTop: '100px', fontFamily: 'sans-serif' }}>
       <h1>Hello, World!</h1>
-      <p>Welcome to React</p>
+      <p>Welcome to React!</p>
     </div>
   )
 }
